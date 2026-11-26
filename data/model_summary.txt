@@ -1,0 +1,4 @@
+patients used: 68054
+train: 47676  test: 20378
+hold-out AUC: 0.625
+overall 30-day readmission: 9.0%
